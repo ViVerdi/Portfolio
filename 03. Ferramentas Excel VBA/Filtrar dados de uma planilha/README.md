@@ -2,15 +2,17 @@
 
 Este projeto demonstra uma ferramenta criada via linguagem VBA para auxílio nas tarefas diárias dos colaboradores que utilizam planilhas de Excel extensas.
 
-Esta ferramenta é particularmente útil quando é necessário filtrar várias informações na mesma coluna de uma planilha.
+Esta ferramenta é particularmente útil quando é necessário filtrar várias informações diferentes na mesma coluna de uma planilha.
 
-Originalmente a ferramenta foi idealizada para a manutenção de sistemas onde é necessário realizar a carga de informações ao sistema para atualização de cadastros bem como o cadastro de produtos.
+Originalmente a ferramenta foi idealizada para a manutenção de sistemas onde é necessário realizar a carga de dados ao sistema para atualização de cadastros bem como o cadastro de produtos.
+
 
 ## SITUAÇÃO PROBLEMA
 
-Em uma empresa há um sistema alimentado por planilhas que controla o estoque de itens de varejo, e neste para atualizar este sistema o usuário precisa filtrar os itens que deseja atualizar em uma planilha de Excel, realizar as alterações diretamente nesta planilha e subir a planilha ao sistema.
+Em uma empresa há um sistema alimentado por planilhas que controla o estoque de itens de varejo em várias filiais da empresa. E para atualizar este sistema o usuário precisa filtrar os itens que deseja atualizar em uma planilha de Excel, realizar as alterações diretamente nesta planilha e subir a planilha atualizada ao sistema.
 
-O usuário poderá utilizar a Macro para agilizar o trabalho de filtrar os itens, evitando a necessidade de localizar item a item manualmente.
+O usuário poderá utilizar a Macro para agilizar o trabalho de filtrar os itens, evitando a necessidade de localizar item a item manualmente, aba por aba.
+
 
 ## COMO UTILIZAR A PLANILHA
 
@@ -23,5 +25,4 @@ Após esta configuração utilize o botão "FILTRAR" para executar a macro que f
 
 ## FONTE DOS DADOS
 
-Este projeto utiliza uma lista de produtos fictícia gerada por inteligência artificial
-
+Este projeto utiliza uma lista de produtos fictícia gerada por inteligência artificial.
