@@ -16,6 +16,8 @@ O usuário poderá utilizar a Macro para agilizar o trabalho de filtrar os itens
 
 ## COMO UTILIZAR A PLANILHA
 
+Baixe o arquivo "Cadastro_Produtos.xlsm" e abra o arquivo com o Excel, é necessário ter uma licença Excel Desktop instalada.
+
 Obs.: Caso o Excel abra a planilha em Mode de Exibição Protegido será necessário Habilitar a Edição e permitir a execução de Macros para que a planilha opere corretamente.
 
 Na Aba "FILTRO" é necessário definir as configurações dos filtros, quais itens devem ser filtrados e quais abas da planilha devem ser consideradas para o filtro.
